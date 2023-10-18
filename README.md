@@ -53,6 +53,6 @@ Deve haver uma funcionalidade que permita a remoção de barbeiros da lista disp
 Os usuários devem ter a possibilidade de cancelar ou remarcar horários agendados, observando prazos definidos para tais ações.
 
 ## Protótipo do Aplicativo
-[LINK]
+https://www.figma.com/file/o4e58W8FlqMddVGotoTA0k/Projeto-Mobile?type=design&node-id=3-4&mode=design&t=wkEiOl3i6jK8onPs-0
 
 
