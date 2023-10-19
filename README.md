@@ -55,7 +55,7 @@ Os usuários devem ter a possibilidade de cancelar ou remarcar horários agendad
 ## Protótipo do Aplicativo
 <a href="https://www.figma.com/file/o4e58W8FlqMddVGotoTA0k/Projeto-Mobile?type=design&node-id=3-4&mode=design&t=wkEiOl3i6jK8onPs-0" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 
-Apertando esse botão estaremos indo para a vizualição das telas no Figma ou se preferir copie e cole esse link no navegador. ⤵
+Apertando o botão estaremos indo para a vizualição das telas no Figma ou se preferir copie e cole esse link no navegador. ⤵
 https://www.figma.com/file/o4e58W8FlqMddVGotoTA0k/Projeto-Mobile?type=design&node-id=3-4&mode=design&t=wkEiOl3i6jK8onPs-0
 
 
