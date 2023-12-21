@@ -77,13 +77,13 @@ class Agendamento : AppCompatActivity() {
                     mensagem(it, "Coloque uma data!", "FF0000")
                 }
                 barbeiro1.isChecked && data.isNotEmpty() && hora.isNotEmpty() -> {
-                    salvarAgendamento(it, nome, "roberto chora em X", data,hora)
+                    salvarAgendamento(it, nome, "Roberto", data,hora)
                 }
                 barbeiro2.isChecked && data.isNotEmpty() && hora.isNotEmpty() -> {
-                    salvarAgendamento(it, nome, "Patrick primo do Will Smith", data,hora)
+                    salvarAgendamento(it, nome, "Patrick", data,hora)
                 }
                 barbeiro3.isChecked && data.isNotEmpty() && hora.isNotEmpty() -> {
-                    salvarAgendamento(it, nome, "Julio prompt de comando", data,hora)
+                    salvarAgendamento(it, nome, "Julio", data,hora)
                 }
                 else -> {
                     mensagem(it, "Escolha um barbeiro", "FF0000")
