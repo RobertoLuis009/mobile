@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687371184723",
+    "project_id": "barbershopdaivid",
+    "storage_bucket": "barbershopdaivid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687371184723:android:df4ade813f889b86bd34a6",
+        "android_client_info": {
+          "package_name": "com.avanade.barbershop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YK1-k9ecoY00EmGy0mPMOt8VmPxhm4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
